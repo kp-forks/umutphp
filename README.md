@@ -1,5 +1,5 @@
 ## Hi 👋, 
-I'm Umut Işık, a software engineer 👨‍💻 who is passionate about web technologies and open source. I am working as the Head of Software at [Copyright Capital](https://www.copyrightcapital.com/).
+I'm Umut Işık, a software engineer 👨‍💻 who is passionate about web technologies and open source.
 
 My recent commits at Github;
 <!-- START gadpp -->
